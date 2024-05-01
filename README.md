@@ -151,8 +151,6 @@ void loop() {
 ```
 
 ## OUTPUT 
-
-
-![Screenshot 2024-05-01 090956](https://github.com/AmruthaRajsheker/Simulation-on-Distance-measurement-in-Tinkercad/assets/119475943/cff45135-8ee8-4838-9d0f-83daafb7320f)
+<img src="https://github.com/AmruthaRajsheker/Simulation-on-Distance-measurement-in-Tinkercad/assets/119475943/cff45135-8ee8-4838-9d0f-83daafb7320f" alt="description" style="width: 50%; height: auto;">
 
 
