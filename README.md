@@ -2,7 +2,7 @@
 
 ## Overview
 
-This simulation demonstrates distance measurement using an ultrasonic sensor in Tinkercad. The system utilizes an Arduino Uno, two LEDs (red and green), and an ultrasonic sensor (HC-SR04) to measure distances and provide visual feedback based on proximity.
+The Ultrasonic Distance Measurement Simulation in Tinkercad is a virtual representation of a system that measures distances using an ultrasonic sensor. This project utilizes Tinkercad, a browser-based simulation platform, to create and test the circuit virtually. The system consists of an Arduino Uno microcontroller, an ultrasonic distance sensor (HC-SR04), and two LEDs (red and green). The LEDs provide visual feedback based on the distance measured by the ultrasonic sensor.
 
 
 ## Components Used
