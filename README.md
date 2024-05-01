@@ -7,7 +7,6 @@ This simulation demonstrates distance measurement using an ultrasonic sensor in 
 
 ## Components Used
 
-
 | Name                      | Quantity | Component                             |
 |---------------------------|----------|---------------------------------------|
 | U1                        | 1        | Arduino Uno R3                        |
@@ -16,7 +15,7 @@ This simulation demonstrates distance measurement using an ultrasonic sensor in 
 | D3                        | 1        | Green LED                             |
 | R1, R2                    | 2        | 1 kΩ Resistor                         |
 
-</br>
+
 
 1. **Arduino Uno R3**: The Arduino Uno is a microcontroller board based on the ATmega328P. It acts as the brain of the system, processing sensor data and controlling the LEDs based on distance measurements.
 
@@ -28,6 +27,7 @@ This simulation demonstrates distance measurement using an ultrasonic sensor in 
 
 5. **1 kΩ Resistor (R1, R2)**: These resistors are used to limit the current flowing through the LEDs, preventing them from burning out due to excessive current flow. They are connected in series with the LEDs to control the brightness and protect them from damage.
 
+</br>
 
 ## Circuit Diagram
 
