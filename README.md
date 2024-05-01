@@ -7,7 +7,13 @@ The Ultrasonic Distance Measurement Simulation in Tinkercad is a virtual represe
 
 ## Components Used
 
-<img src="https://github.com/AmruthaRajsheker/Simulation-on-Distance-measurement-in-Tinkercad/assets/119475943/6f8e932f-f520-4488-9233-e5a017209e6a" alt="description" style="width: 70%; height: auto;">
+| Name                   | Quantity | Component                              |
+|------------------------|----------|----------------------------------------|
+| U1                     | 1        | Arduino Uno R3                         |
+| DISTULTRASONIC SENSOR  | 1        | Ultrasonic Distance Sensor (4-pin)     |
+| D1                     | 1        | Red LED                                |
+| D3                     | 1        | Green LED                              |
+| R1, R2                 | 2        | 1 kΩ Resistor                          |
 
 
 1. **Arduino Uno R3**: The Arduino Uno is a microcontroller board based on the ATmega328P. It acts as the brain of the system, processing sensor data and controlling the LEDs based on distance measurements.
@@ -145,6 +151,6 @@ void loop() {
 ```
 
 ## OUTPUT 
-<img src="https://github.com/AmruthaRajsheker/Simulation-on-Distance-measurement-in-Tinkercad/assets/119475943/cff45135-8ee8-4838-9d0f-83daafb7320f" alt="description" style="width: 40%; height: auto;">
+<img src="https://github.com/AmruthaRajsheker/Simulation-on-Distance-measurement-in-Tinkercad/assets/119475943/cff45135-8ee8-4838-9d0f-83daafb7320f" alt="description" style="width: 50%; height: auto;">
 
 
